@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libMLCompilerBridgeC.a MLModelRunner/C/CMakeFiles/ModelRunnerCWrapper.dir/PipeModelRunnerCWrapper.cpp.o MLModelRunner/C/CMakeFiles/ModelRunnerCWrapper.dir/ONNXModelRunnerCWrapper.cpp.o MLModelRunner/CMakeFiles/ModelRunnerCLib.dir/PipeModelRunner.cpp.o MLModelRunner/ONNXModelRunner/CMakeFiles/ONNXModelRunnerLib.dir/onnx.cpp.o MLModelRunner/ONNXModelRunner/CMakeFiles/ONNXModelRunnerLib.dir/agent.cpp.o MLModelRunner/ONNXModelRunner/CMakeFiles/ONNXModelRunnerLib.dir/ONNXModelRunner.cpp.o
+/usr/bin/ranlib lib/libMLCompilerBridgeC.a
